@@ -1,0 +1,28 @@
+*{
+	margin:0;
+}
+.menu{
+	background-color: #F0E68C;
+}
+
+th{
+	color: #0A0DFD;
+	background-color: #ADD8E6;
+	height: 50px;
+	
+}
+.content{
+	background-image: url(../img/ball.png);
+    background-repeat: repeat-y;
+    background-position: top right;
+    overflow: hidden;
+    
+    
+
+}
+img{
+	float: left;
+}
+table{
+	border-spacing: 0px;
+}

@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+}
+
+.header{
+	background-color: #ADD8E6;
+}
+.container{
+	background-image: url(../img/line.png);
+    background-repeat: repeat-y;
+    background-position: top left;
+}
+.name{
+	color: #0A0DFD;
+	text-align: center;
+	padding: 10px;
+}
+.menu{
+	
+	float: left;
+	width: 180px;
+}
+.content{
+	background-image: url(../img/ball.png);
+    background-repeat: repeat-y;
+    background-position: top right;
+    overflow: hidden;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+img{
+	float: left;
+	margin: 15px;
+}
+
+
+.footer{
+	background-color: #ADD8E6;
+	clear: both;
+	height: 50px;
+}
