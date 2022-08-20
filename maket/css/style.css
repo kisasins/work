@@ -1,0 +1,110 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Roboto"
+}
+
+
+.top-menu ul{
+	margin-top: 11px; 
+	font-size: 18px;
+}
+.left li{
+	float: left;
+	list-style: none;
+	margin-left: 44px;
+	display: inline;
+	
+}
+.left li:first-child{margin-left: 80px;
+
+}
+
+.right li{
+	float: right;
+	list-style: none;
+	margin-left: 44px;
+	display: inline;
+}
+.right li:first-child{margin-right: 80px;
+}
+.tel {
+	position: absolute;
+width: 24px;
+height: 24px;
+right: 442px;
+top: 10px;
+}
+.reg{
+	position: absolute;
+width: 22px;
+height: 23.61px;
+right: 244px;
+top: 10px;
+}
+.border_top-menu{
+	clear: both;
+	position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 45px;
+
+border: 1px solid #F0F0F0;
+}
+.logo img{
+	position: absolute;
+width: 219px;
+height: 66px;
+left: 851px;
+top: 84px;
+}
+.border_bot-menu{
+	position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 190px;
+
+border: 1px solid #F0F0F0;
+}
+
+.menu{
+	position: absolute;
+width: 1920px;
+height: 71px;
+left: 0px;
+top: 190px;
+}
+.menu li{
+	display: inline;
+	font-size: 20px;
+	margin-right: 56px;
+	font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-transform: uppercase;
+
+color: #707070;
+
+}
+.menu ul{
+	margin-left: 109px;
+	margin-top: 34px;
+	margin-bottom: 34px;
+}
+.shop{
+float: right;
+
+margin-right: 80px;
+
+}
+.search{
+	float: right;
+	margin-right: 50px;
+	
+
+

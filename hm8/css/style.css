@@ -1,0 +1,68 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+p{
+	padding: 10px;
+}
+.club{
+	background-color: #90EE90;
+	border: 1px solid  #008000;
+	width: 100px;
+	height: 40px;
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 10px;
+	text-decoration: none;
+	
+}
+
+.container{
+	 background: url('../img/line.png') repeat-y,
+           		 url('../img/ball.png') top right repeat-y;
+}
+
+.menu{
+	
+	float: left;
+	width: 180px;
+}
+.content{	
+    margin-left: 190px;
+   padding: 10px;
+}
+.content > img{
+	float: left;
+	margin-right: 10px;
+}
+
+.clearfix{
+	clear: both;
+}
+}
+.content p{
+    padding: 0;
+    text-align: justify;
+}
+
+.content p:first-child{
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 10px;
+}
+ul{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.hf{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    color: #0000FF;
+    background-color: #ADD8E6;
+}

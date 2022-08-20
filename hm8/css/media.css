@@ -1,0 +1,33 @@
+@import url('style.css');
+
+@media all and (min-width: 760px){
+	.content{
+		height: 350px;
+	}
+}
+@media all and (max-width: 560px){
+    .content > img{
+        float: none;
+        width: 100%;
+    }
+}
+@media all and (max-width: 420px){
+	
+	.menu{
+		float: none;
+		width: 100%;
+		background: url(../img/line.png);
+		padding-bottom: 10px;
+	}
+	.container{
+		background: url(../img/ball.png) top right repeat-y;
+	}
+	.content{
+		margin-left: 0px;
+	}
+}
+@media all and (max-width: 375px){
+    .header{
+        font-size: 20px;
+    }
+}
