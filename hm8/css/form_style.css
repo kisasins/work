@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: "Roboto";
+}
+.pub{
+	display: inline;
+}
+.check div{
+display: inline;
+user-select: none;
+}
+.check input{
+	display: none;
+	user-select: none;
+}
+.check input + label{
+	width: 44px;
+	height: 24px;
+	background-color: red;
+	display: inline-block;
+	border-radius: 50px;
+
+}
+.check input + label::before{
+	content: "";
+	width: 21px;
+	height: 21px;
+	background-color: white;
+	border-radius: 50%;
+	    position: absolute;
+    left: 198px;
+    top: 105px;
+}
+.check input:checked + label{
+	background-color: green;
+}
+.check input:checked + label::before{
+	left: 219px;
+	}
+
+.check label{
+	margin-bottom: -6px;
+}
+.name{
+	float: left;
+	width: 175px;
+
+}
+.content{
+	margin-left: 175px;
+	margin-top: -19px;
+}
+.content input{
+	width: 100%;
+	margin-top: -20px;
+}
+.state_name{
+	padding-top: 10px;
+}
+.rubrika{
+	padding-top: 5px;
+}
+.rubrika select{
+	width: 250px;
+    margin-left: 105px;
+}
+.publish{
+	padding-top: 5px;
+}
+.content_pub{
+	    display: inline;
+    margin-left: 66px;
+}
+
+.pub input{
+	margin-left: 10px;
+}
+.check{
+	margin-top: -20px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+textarea{
+	width: 100%;
+	height: 100px;
+}
+input[type="submit"]{
+	width: 120px;
+	height: 35px;
+}
+

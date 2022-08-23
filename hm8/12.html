@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="css/form_media.css">
+</head>
+<body>
+	<div class="wrap">
+	<form action="https://fe.it-academy.by/TestForm.php" method="POST">
+		<p>Для Для публикации вашей статьи заполните, пожалуйста, следующую форму:</p>
+		<div class="state_name">
+			<div class="name1">			
+			    <span>Название статьи:</span>
+			</div>
+			<div class="content">						
+				<input type="text" name="name">	
+			</div>		        			   
+		</div>
+		<div class="rubrika">
+			<label>
+				<span>Рубрика:</span>
+				<select name="rubrika">
+					<option value="1">программирование</option>
+					<option value="2">компьютерная техника</option>
+					<option value="3">графика и дизайн</option>
+				</select>
+			</label>
+		</div>
+		<div class="publish">
+			<span>Публикация:</span>
+				<div class="content_pub">
+			<div class="pub"><input type="radio" name="1" value="site"><span>на сайте</span></div>
+			<div class="pub"><input type="radio" name="1" value="в журнале"><span>в журнале</span></div>
+			<div class="pub"><input type="radio" name="1" value="на сайте и в журнале"><span>на сайте и в журнале</span></div>
+				</div>
+		</div>
+		<br>
+		<div class="check">
+			<span>Разрешить комментарии:</span>
+			<div>
+				<input type="checkbox" id="check1">
+			        <label for="check1"></label>
+		    </div>
+			
+		</div>
+		<div class="state">
+			<label>
+				<span>Текст статьи:</span> <br>
+				<textarea name="state" id="st1"></textarea>
+			</label>
+		</div>
+		<input type="submit" name="submit">
+	</form>	
+	</div>
+</body>
+</html>

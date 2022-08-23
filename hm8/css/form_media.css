@@ -1,0 +1,32 @@
+@import url('form_style.css');
+@media all and (max-width:600px){
+	p{
+		min-width: 10px;
+	}
+	.content{
+		margin: 0;
+		padding: 0;
+		   
+}
+.rubrika span{
+	display: block;
+}
+.rubrika select{
+	margin: 0;
+	padding: 0;
+	width: 150px;
+}
+.publish span:first-child {
+	display: block;
+}
+.content_pub{
+	margin: 0;
+}
+.pub{
+	display: block;
+}
+.check input + label::before{
+	position: absolute;
+	left: 198px;
+	top: 219px;
+}
