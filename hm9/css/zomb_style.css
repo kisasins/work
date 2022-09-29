@@ -1,0 +1,22 @@
+*{
+
+}
+.zombie{
+	transform: translate(-50% -50%);
+	width: calc(576px / 9);
+	height: 256px;
+	background: url(../img/walk.png);
+	animation: animate 1s steps(9) infinite;
+	
+}
+@keyframes animate
+{
+	from
+	{
+		background-position: 0;
+	}
+	to
+	{
+		background-position: -575px;
+	}
+}

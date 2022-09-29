@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: #D7D3DB
+
+}
+.div{
+	display: flex;
+	justify-content: space-around;
+}
+input{
+	width: 250px;
+	height: 75px;
+	background-color: #D7D02F;
+	border: 1;
+	border-color: #D7809A;
+	border-radius: 10em;
+
+}

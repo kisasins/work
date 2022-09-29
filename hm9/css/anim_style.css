@@ -1,0 +1,87 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	height:912px;
+	background: linear-gradient(45deg, #108dc7, #ef8e38, #ffffff);
+	background-size: 400% 400%;
+	animation: gradient 5s ease infinite;
+}
+@keyframes gradient{
+	0%{
+		background-position: 0 50%;
+	}
+	50%{
+		background-position: 100% 50%;
+	}
+	100%{
+		background-position: 0 50%;
+	}
+}
+.div{
+	background-color: white;
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	top: calc(50% / 2);
+	left: calc(75% / 2);
+}
+.box{
+	position: relative;
+	width: 75px;
+	height: 75px;
+	background-color: red;
+	top: 20px;
+	left: 20px;
+	
+}
+.circle{
+	position: relative;
+	width: 75px;
+	height: 75px;
+	border-radius: 50%;
+	top: 50px;
+	left: 200px;
+	background-color: blue;
+}
+.div:hover .box{
+	animation-name: box-anim;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-timing-function: ease;
+
+}
+.div:hover .circle{
+	animation-name: circle-anim;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-timing-function: linear;
+
+}
+
+@keyframes box-anim{
+	0%{
+		left: 0
+	}
+	50%{
+		border-radius: 50%;
+	}
+	100%{
+		left: 425px;
+	}
+
+}
+@keyframes circle-anim{
+	0%{
+		top: 0
+	}
+	100%{
+		top: 300px;
+		background: green;
+	}
+
+}

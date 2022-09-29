@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.name{
+	margin-top: 20px;
+	font-size: 30px;
+	font-weight: bold;
+}
+.day{
+	color: green;
+}
+.win{
+	color:red;
+	font-weight: bold;
+}
+.link:before{
+	content: url(../img/extref.png);
+	margin-right: 4px;
+}
+.content{
+	font-style: italic;
+	color: blue;
+}
+.start{
+	margin-top: 20px;
+}

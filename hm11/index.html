@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/style.css">
+	<title>Document</title>
+</head>
+<body>
+	<div class="div">
+		<input type="button" value="ввод информации о стране" onclick="addCountry()">
+		<input type="button" value="перечень всех стран" onclick="addCapital()">
+		<input type="button" value="получение информации о стране" onclick="allCountry()">
+		<input type="button" value="удаление информации о стране" onclick="del()">
+	</div>
+	<script>
+		var countrysa={};
+		function addCountry(){
+			
+			var country=prompt('введите страну');
+			var capital=prompt('введите столицу');
+			addCountrya(country,capital);
+		}
+		function addCountrya(country,capital){
+			countrysa[country]=capital;
+		}
+
+
+		function getinfo(){
+			country=prompt('введите название страны');
+			alert(countryinfo(country));
+		}
+		function countryinfo(country){
+			if (country in countrysa)
+				return +country + countrysa[country];
+			else
+				return 'нет информации о стране';
+		}
+	</script>
+</body>
+</html>

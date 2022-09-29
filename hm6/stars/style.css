@@ -1,6 +1,0 @@
-.stars span{
-	content: url(img/star0.png);
-}
-.stars span:hover~span{
-	content: url(../img/star1.png);
-}
