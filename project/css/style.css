@@ -155,7 +155,7 @@ header.sticky{
 
 .page_ul{
 	margin-top: 48px;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 	font-style: normal;
 	font-weight: 600;
 	font-size: 27.8383px;
@@ -184,7 +184,7 @@ header.sticky{
 }
 
 .page_buttons button{
-	font-family: 'Jost*';
+	font-family: 'Jost';
 	font-style: normal;
 	font-weight: 700;
 	font-size: 22.2603px;
@@ -202,7 +202,7 @@ header.sticky{
 	width: 265px;
 	height: 65px;
 	background: url(../img/icon/button_deck.svg) no-repeat;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 	font-style: normal;
 	font-weight: 700;
 	font-size: 22.2603px;
@@ -233,7 +233,7 @@ header.sticky{
 	left: 100px;
 }
 span.span_play{
-	font-family: 'Jost*';
+	font-family: 'Jost';
 	font-style: normal;
 	font-weight: 600;
 	font-size: 30px;
@@ -272,7 +272,7 @@ height: 62px;
 left: 375px;
 top: 2157px;
 
-font-family: 'Jost*';
+font-family: 'Jost';
 font-style: normal;
 font-weight: 600;
 font-size: 43px;
@@ -290,7 +290,7 @@ text-fill-color: transparent;
     height: 103.33px;
     left: 535px;
     top: -76px;
-    font-family: 'Jost*';
+    font-family: 'Jost';
     font-style: normal;
     font-weight: 700;
     font-size: 71.6667px;
@@ -307,7 +307,7 @@ text-fill-color: transparent;
 	margin-top: 150px;
 }
 .frame_second p{
-	font-family: 'Jost*';
+	font-family: 'Jost';
 	font-style: normal;
 	font-weight: 400;
 	font-size: 18px;
@@ -326,7 +326,7 @@ text-fill-color: transparent;
 .nft_box{
 	width: 186px;
 	height: 62px;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 43px;
@@ -344,7 +344,7 @@ text-fill-color: transparent;
 	margin-top: 27px;
 	width: 1050px;
 	height:78px;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
@@ -388,7 +388,7 @@ color: #FFFFFF;
 	align-items: center;
 }
 .equip_text{
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 43px;
@@ -489,7 +489,7 @@ label[for="next"]{
 	background: url(../img/oblacl.png) no-repeat;
 }
 .meta_text span{
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 43px;
@@ -506,7 +506,7 @@ text-fill-color: transparent;
 	margin-top: 21px;
 	width: 898px;
 	height: 52px;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
@@ -530,7 +530,7 @@ color: #FFFFFF;
     align-items: flex-end;
     justify-content: center;
     padding-top: 190px;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 43px;
@@ -557,7 +557,7 @@ text-fill-color: #ffffff;
 }
 .concept_text p{
 	margin-top: 20px;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
@@ -573,7 +573,7 @@ color: #FFFFFF;
 
 }
 .concept_buttons button{
-	font-family: 'Jost*';
+	font-family: 'Jost';
 	font-style: normal;
 	font-weight: 700;
 	font-size: 22.2603px;
@@ -591,7 +591,7 @@ color: #FFFFFF;
 	width: 265px;
 	height: 65px;
 	background: url(../img/icon/button_deck.svg) no-repeat;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 	font-style: normal;
 	font-weight: 700;
 	font-size: 22.2603px;
@@ -633,7 +633,7 @@ position: relative;
     position: relative;
     bottom: 259px;
 	margin: 17px 181px 16px 222px;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 22.2603px;
@@ -646,7 +646,7 @@ color: #FFFFFF;
 }
 .mode_play li{
 	list-style: none;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 600;
 font-size: 20px;
@@ -699,7 +699,7 @@ position: relative;
     position: relative;
     bottom: 259px;
 	margin: 17px 181px 16px 222px;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 22.2603px;
@@ -712,7 +712,7 @@ color: #FFFFFF;
 }
 .map_play li{
 	list-style: none;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 600;
 font-size: 20px;
@@ -748,7 +748,7 @@ color: rgba(255, 255, 255, 0.68);
 	padding-bottom: 28px;
 }
 .token span{
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 43px;
@@ -778,7 +778,7 @@ span.mest{
     position: relative;
     display: block;
     bottom: 85px;
-font-family: 'Jost*';
+font-family: 'Jost';
 font-style: normal;
 font-weight: 600;
 font-size: 24px;
@@ -793,7 +793,7 @@ span.max{
 	position: relative;
     bottom: 93px;
     left: 103px;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
@@ -810,7 +810,7 @@ color: #FFFFFF;
 .token_ul li{
 	margin-top: 10px;
 	list-style: none;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
@@ -845,7 +845,7 @@ color: #FFFFFF;
 	height: 62px;
 }
 .roadmap span{
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 43px;
@@ -921,7 +921,7 @@ bottom: 125px;
     right: 33px;
 	width: 140px;
 	height: 29px;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 20px;
@@ -947,7 +947,7 @@ text-fill-color: transparent;
 .half_row_item1 li{
 	margin-top: 20px;
 	list-style: none;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -989,7 +989,7 @@ color: rgba(255, 255, 255, 0.8);
     right: 33px;
 	width: 140px;
 	height: 29px;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 20px;
@@ -1013,7 +1013,7 @@ text-fill-color: transparent;
 .half_row_item2 li{
 	margin-top: 20px;
 	list-style: none;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -1054,7 +1054,7 @@ color: rgba(255, 255, 255, 0.8);
     right: 33px;
 	width: 140px;
 	height: 29px;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 20px;
@@ -1085,7 +1085,7 @@ text-fill-color: transparent;
 .half_row_item3 li{
 	margin-top: 20px;
 	list-style: none;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -1116,7 +1116,7 @@ color: rgba(255, 255, 255, 0.8);
     right: 51px;
 	width: 140px;
 	height: 29px;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 20px;
@@ -1147,7 +1147,7 @@ text-fill-color: transparent;
 .half_row_item4 li{
 	margin-top: 20px;
 	list-style: none;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -1199,7 +1199,7 @@ color: rgba(255, 255, 255, 0.8);
 	justify-content: center;
 }
 .partners_text span{
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 43px;
@@ -1245,7 +1245,7 @@ margin-right: 30px;
 }
 .partners_footer span{
 
-font-family: 'Jost*';
+font-family: 'Jost';
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
@@ -1278,7 +1278,7 @@ color: #FFFFFF;
 	margin-right: 30px;
 }
 .team_log span{
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 43px;
@@ -1325,7 +1325,7 @@ text-fill-color: transparent;
 	justify-content: center;
 }
 .name{
-	 font-family: 'Jost*';
+	 font-family: 'Jost';
 font-style: normal;
 font-weight: 500;
 font-size: 22px;
@@ -1346,7 +1346,7 @@ padding-bottom: 10px;
 }
 
 .last_name{
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
@@ -1404,7 +1404,7 @@ border-radius: 25px;
 	margin-right: 30px;
 }
 .in span{
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 38px;
@@ -1419,7 +1419,7 @@ text-fill-color: transparent;
 }
 .in span:last-child{
 	margin-top: 5px;
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
@@ -1451,7 +1451,7 @@ line-height: 76px;
 color: white;
 }
 .timer_inner span:last-child{
-	font-family: 'Jost*';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -1507,7 +1507,7 @@ color: #FFFFFF;
 	top: -37px;
 }
 .cap span{
-	ont-family: 'Jost';
+	font-family: 'Jost';
 font-style: normal;
 font-weight: 700;
 font-size: 32px;
